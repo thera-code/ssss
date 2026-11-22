@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-23T00:00:00Z",
+  "languages_supported": ["ar", "fr"],
+  "members": [
+    {
+      "id": "mem-001",
+      "slug": "anisa-alrefaei-roomieh",
+      "order": 1,
+      "active": true,
+      "featured": true,
+
+      "photo": "assets/images/members/anisa.png",
+      "photo_position": "center bottom",
+
+      "name": {
+        "ar": "أنيسة الرفاعي رومية",
+        "fr": "Anisa Alrefaei Roomieh"
+      },
+
+      "role": {
+        "ar": "مؤسِّسة جمعية «الملتقى السوري السويسري» — روائية، شاعرة، مُدرِّسة لغة عربية، ناشطة ثقافية، ومؤسِّسة مشاريع إنسانية",
+        "fr": "Fondatrice de l'association Rencontre Syrienne-Suisse — Romancière, poétesse, enseignante de langue arabe, militante culturelle, fondatrice de projets humanitaires"
+      },
+
+      "nationality": {
+        "ar": "سورية",
+        "fr": "Syrienne"
+      },
+
+      "origin": {
+        "ar": "يبرود، سوريا",
+        "fr": "Yabroud, Syrie"
+      },
+
+      "location": {
+        "ar": "دوليمون، سويسرا",
+        "fr": "Delémont, Suisse"
+      },
+
+      "birth_year": null,
+
+      "contact": {
+        "email": null,
+        "phone": null,
+        "linkedin": null,
+        "website": null
+      },
+
+      "languages": [
+        {
+          "name": { "ar": "العربية", "fr": "Arabe" },
+          "level": "native"
+        },
+        {
+          "name": { "ar": "الفرنسية", "fr": "Français" },
+          "level": "fluent"
+        }
+      ],
+
+      "bio": {
+        "short": {
+          "ar": "روائية وشاعرة سورية، ومؤسِّسة جمعية «الملتقى السوري السويسري». حاصلة على إجازة في اللغة العربية وآدابها، تجمع في مسيرتها بين الإبداع الأدبي والالتزام الإنساني والحوار بين الثقافات.",
+          "fr": "Romancière et poétesse syrienne, fondatrice de l'association Rencontre Syrienne-Suisse. Titulaire d'une licence en langue et littérature arabes, elle conjugue création littéraire, engagement humanitaire et dialogue interculturel."
+        },
+        "full": {
+          "ar": "أنيسة الرفاعي رومية روائية وشاعرة سورية، من مواليد مدينة يبرود في سوريا، تقيم حالياً في مدينة دوليمون السويسرية. حاصلة على إجازة في اللغة العربية وآدابها، وهي متزوجة وأم لثلاثة أطفال.\n\nشغفت بالقراءة والكتابة منذ طفولتها، فحوّلت هذا الشغف تدريجياً إلى مسار أدبي وثقافي حقيقي، يجمع بين الإبداع الفني والالتزام الإنساني والحوار بين الثقافات.\n\nومن خلال مسيرتها، تسعى إلى جعل الأدب والفن فضاءاتٍ للقاء والمشاركة والتقارب بين الشعوب والثقافات.",
+          "fr": "Anisa Alrefaei Roomieh est une romancière et poétesse syrienne, originaire de Yabroud, en Syrie. Elle réside actuellement à Delémont, en Suisse. Titulaire d'une licence en langue et littérature arabes, elle est mariée et mère de trois enfants.\n\nPassionnée de lecture et d'écriture depuis son enfance, elle a progressivement transformé cette passion en un véritable parcours littéraire et culturel, alliant création artistique, engagement humanitaire et dialogue interculturel.\n\nÀ travers son parcours, elle cherche à faire de la littérature et de l'art des espaces de rencontre, de partage et de rapprochement entre les peuples et les cultures."
+        }
+      },
+
+      "bio_sections": [
+        {
+          "id": "career",
+          "title": { "ar": "المسار المهني والثقافي", "fr": "Parcours professionnel et culturel" },
+          "content": {
+            "ar": "عملت مع برنامج الأغذية العالمي التابع للأمم المتحدة (PAM/WFP)، في إطار مشروع للمساعدة موجَّه إلى اللاجئين العراقيين في سوريا.\n\nكما اشتغلت في تدريس اللغة العربية لغير الناطقين بها، مساهمةً بذلك في نقل اللغة وتعريف الآخرين بالثقافة العربية.\n\nوهي مؤسِّسة جمعية «الملتقى السوري السويسري» الثقافية، التي تهدف إلى تعزيز الحوار بين الثقافات، وتشجيع التبادل بين المجتمعات، ومدّ الجسور بين مختلف الثقافات.\n\nوانطلاقاً من التزامها بالمشهد الثقافي، شاركت في العديد من المهرجانات والاحتفالات واللقاءات الأدبية والمؤتمرات والفعاليات الثقافية في سويسرا وعدد من الدول الأوروبية.",
+            "fr": "Elle a notamment travaillé avec le Programme alimentaire mondial des Nations Unies (PAM/WFP), dans le cadre d'un projet d'assistance destiné aux réfugiés irakiens en Syrie.\n\nElle a également exercé dans l'enseignement de la langue arabe auprès de personnes non arabophones, contribuant ainsi à la transmission de la langue et à la découverte de la culture arabe.\n\nElle est la fondatrice de l'association culturelle Rencontre Syrienne-Suisse, dont la vocation est de promouvoir le dialogue interculturel, de favoriser les échanges entre les communautés et de construire des ponts entre les différentes cultures.\n\nEngagée dans le domaine culturel, elle a participé à de nombreux festivals, célébrations, rencontres littéraires, conférences et manifestations culturelles en Suisse ainsi que dans plusieurs pays européens."
+          }
+        },
+        {
+          "id": "vision",
+          "title": { "ar": "الرؤية والالتزام الإنساني", "fr": "Vision et engagement humanitaire" },
+          "content": {
+            "ar": "نشأت أنيسة الرفاعي رومية في أسرة غرست فيها قيم المحبة والصدق والتسامح والتضامن والتعاضد، فانخرطت منذ طفولتها في أنشطة تطوعية ومبادرات إنسانية.\n\nوقد واصلت هذا الالتزام طوال مسيرتها، برغبةٍ في الإسهام في نشر القيم الإنسانية والثقافية، بمعزلٍ عن أي انتماء سياسي أو طائفي.\n\nوهي مقتنعة اقتناعاً عميقاً بأن الأدب والفن لغتان عالميتان قادرتان على تجاوز الحدود، وأن الثقافة فضاءٌ للقاء والتفاهم المتبادل، وأن السلام لا يُبنى بالخطابات والشعارات وحدها، بل بالكلمات الصادقة والإنصات والاحترام والعمل الجماعي.",
+            "fr": "Ayant grandi dans une famille qui lui a transmis les valeurs de l'amour, de l'honnêteté, de la tolérance, de la solidarité et de l'entraide, Anisa Alrefaei Roomieh s'est engagée dès son enfance dans des activités bénévoles et des initiatives humanitaires.\n\nElle a poursuivi cet engagement tout au long de son parcours, avec la volonté de contribuer à la promotion des valeurs humaines et culturelles, indépendamment de toute appartenance politique ou confessionnelle.\n\nElle est profondément convaincue que la littérature et l'art sont des langages universels capables de dépasser les frontières, que la culture constitue un espace de rencontre et de compréhension mutuelle, et que la paix ne se construit pas uniquement à travers des discours ou des slogans, mais grâce à des paroles sincères, à l'écoute, au respect et à l'action collective."
+          }
+        },
+        {
+          "id": "mission",
+          "title": { "ar": "رسالتها", "fr": "Sa mission" },
+          "content": {
+            "ar": "أن تجعل من الأدب جسراً بين الثقافات، ومن الفن فضاءً للحوار، ومن السلام مشروعاً إنسانياً يستطيع كلُّ واحدٍ أن يُسهم فيه.\n\nوالتزامها في ذلك: تقريب المسافة بين البشر، وإسماع أصوات جميع الثقافات، ونقل رسالةٍ إنسانيةٍ إلى الأجيال الحاضرة والقادمة؛ رسالة محبةٍ وتضامنٍ وسلام.",
+            "fr": "Faire de la littérature un pont entre les cultures, de l'art un espace de dialogue et de la paix un projet humain auquel chacun peut contribuer.\n\nSon engagement : rapprocher les êtres humains, faire entendre les voix de toutes les cultures et transmettre aux générations présentes et futures un message d'humanité, de solidarité et de paix."
+          }
+        }
+      ],
+
+      "education": [
+        {
+          "id": "edu-001",
+          "degree": { "ar": "إجازة في اللغة العربية وآدابها", "fr": "Licence en langue et littérature arabes" },
+          "institution": null,
+          "field": { "ar": "اللغة العربية وآدابها", "fr": "Langue et littérature arabes" },
+          "year_start": null,
+          "year_end": null,
+          "location": null,
+          "description": null,
+          "certificate_url": null
+        }
+      ],
+
+      "experience": [
+        {
+          "id": "exp-001",
+          "position": { "ar": "مشروع المساعدة الإنسانية", "fr": "Projet d'assistance humanitaire" },
+          "company": { "ar": "برنامج الأغذية العالمي التابع للأمم المتحدة (PAM/WFP)", "fr": "Programme alimentaire mondial des Nations Unies (PAM/WFP)" },
+          "year_start": null,
+          "year_end": null,
+          "current": false,
+          "location": { "ar": "سوريا", "fr": "Syrie" },
+          "description": {
+            "ar": "المشاركة في مشروع للمساعدة موجَّه إلى اللاجئين العراقيين في سوريا.",
+            "fr": "Participation à un projet d'assistance destiné aux réfugiés irakiens en Syrie."
+          }
+        },
+        {
+          "id": "exp-002",
+          "position": { "ar": "مدرِّسة لغة عربية لغير الناطقين بها", "fr": "Enseignante de langue arabe aux non-arabophones" },
+          "company": null,
+          "year_start": null,
+          "year_end": null,
+          "current": false,
+          "location": null,
+          "description": {
+            "ar": "تدريس اللغة العربية للناطقين بغيرها، إسهاماً في نقل اللغة وتعريف المتعلمين بالثقافة العربية.",
+            "fr": "Enseignement de la langue arabe aux non-arabophones, contribuant à la transmission de la langue et à la découverte de la culture arabe."
+          }
+        },
+        {
+          "id": "exp-003",
+          "position": { "ar": "مؤسِّسة", "fr": "Fondatrice" },
+          "company": { "ar": "جمعية «الملتقى السوري السويسري»", "fr": "Association Rencontre Syrienne-Suisse" },
+          "year_start": null,
+          "year_end": null,
+          "current": true,
+          "location": { "ar": "سويسرا", "fr": "Suisse" },
+          "description": {
+            "ar": "تأسيس الجمعية والإشراف على أنشطتها الثقافية والاجتماعية، بهدف تعزيز الحوار بين الثقافات ومدّ الجسور بين المجتمعات.",
+            "fr": "Fondation de l'association et supervision de ses activités culturelles et sociales, dans le but de promouvoir le dialogue interculturel et de rapprocher les communautés."
+          }
+        }
+      ],
+
+      "publications": [
+        {
+          "id": "pub-001",
+          "title": { "ar": "حين يخونون", "fr": "Quand ils trahissent" },
+          "type": "novel",
+          "publisher": { "ar": "دار نشر Escrib", "fr": "Éditions Escrib" },
+          "location": { "ar": "القاهرة", "fr": "Le Caire" },
+          "year": null,
+          "cover": null,
+          "url": null,
+          "description": null,
+          "collaborators": []
+        },
+        {
+          "id": "pub-002",
+          "title": { "ar": "الطريق إلى الحياة", "fr": "Le chemin vers la vie" },
+          "type": "novel",
+          "publisher": { "ar": "دار نشر Escrib", "fr": "Éditions Escrib" },
+          "location": { "ar": "القاهرة", "fr": "Le Caire" },
+          "year": null,
+          "cover": null,
+          "url": null,
+          "description": null,
+          "collaborators": []
+        },
+        {
+          "id": "pub-003",
+          "title": { "ar": "وجهاً لوجه", "fr": "Face à Face" },
+          "type": "collaborative_work",
+          "publisher": null,
+          "location": null,
+          "year": null,
+          "cover": null,
+          "url": null,
+          "description": null,
+          "collaborators": [
+            { "name": { "ar": "مايفا روبلي", "fr": "Maeva Rubli" } }
+          ]
+        },
+        {
+          "id": "pub-004",
+          "title": { "ar": "معي، معك (بالألمانية: Bei mir, bei dir)", "fr": "Bei mir, bei dir" },
+          "type": "literary_project",
+          "publisher": null,
+          "location": null,
+          "year": null,
+          "cover": null,
+          "url": null,
+          "description": {
+            "ar": "مشروع أدبي باللغة الألمانية.",
+            "fr": "Projet littéraire en langue allemande."
+          },
+          "collaborators": [
+            { "name": { "ar": "مايفا روبلي", "fr": "Maeva Rubli" } }
+          ]
+        }
+      ],
+
+      "certifications": [],
+
+      "projects": [
+        {
+          "id": "proj-001",
+          "title": { "ar": "قريباً من جفونك", "fr": "Près de tes paupières" },
+          "image": null,
+          "year": null,
+          "status": "completed",
+          "tags": ["art", "poetry", "bilingual"],
+          "short": {
+            "ar": "مشروع فني وشعري ثنائي اللغة، حاز جائزة لجنة التحكيم في «جائزة الشباب جورا».",
+            "fr": "Projet artistique et poétique bilingue, lauréat du Prix du Jury du Prix Jeunesse Jura."
+          },
+          "full": {
+            "ar": "مشروع فني وشعري ثنائي اللغة، شاركت فيه أنيسة الرفاعي رومية إلى جانب مايفا روبلي وهانا شيسر، وأنجزه الفريق الفني RU.\n\nحاز المشروع جائزة لجنة التحكيم في «جائزة الشباب جورا» (Prix Jeunesse Jura)، ويُبرز ثراء اللقاء بين اللغات والحساسيات والثقافات، من خلال مسار فني قائم على التشارك والتعبير الشعري.",
+            "fr": "Projet artistique et poétique bilingue auquel Anisa Alrefaei Roomieh a participé aux côtés de Maeva Rubli et Hanna Schiesser, réalisé par le collectif artistique RU.\n\nLe projet a reçu le Prix du Jury du Prix Jeunesse Jura. Cette création met en valeur la richesse de la rencontre entre les langues, les sensibilités et les cultures, à travers une démarche artistique fondée sur le partage et l'expression poétique."
+          },
+          "collaborators": [
+            { "name": { "ar": "مايفا روبلي", "fr": "Maeva Rubli" } },
+            { "name": { "ar": "هانا شيسر", "fr": "Hanna Schiesser" } }
+          ],
+          "awards": [
+            { "name": { "ar": "جائزة لجنة التحكيم — جائزة الشباب جورا", "fr": "Prix du Jury — Prix Jeunesse Jura" } }
+          ],
+          "url": null
+        },
+        {
+          "id": "proj-002",
+          "title": { "ar": "لوحة السلام", "fr": "Tableau de la Paix" },
+          "image": null,
+          "year": null,
+          "status": "ongoing",
+          "tags": ["art", "humanitarian", "multilingual", "peace"],
+          "short": {
+            "ar": "مبادرة فنية وثقافية وإنسانية تجمع رسائل ورُسوم الأطفال والشباب والكبار من مختلف الأصول حول السلام، بلغاتهم الأم.",
+            "fr": "Initiative artistique, culturelle et humanitaire réunissant les messages et dessins d'enfants, de jeunes et d'adultes de différentes origines autour de la paix, dans leurs langues maternelles."
+          },
+          "full": {
+            "ar": "مشروع فني وثقافي وإنساني، تصوّرته وأطلقته وتحمله أنيسة الرفاعي رومية.\n\nوُلد المشروع من قناعة راسخة بأن السلام يبدأ من الكلمات، ومن إيجاد فضاءاتٍ يستطيع فيها كل إنسان أن يعبّر بحرّية عن أفكاره وأحلامه وتطلعاته. وهو يدعو الأطفال والشباب والكبار من مختلف الأصول إلى كتابة رسائل وأفكار وتأملات وتجارب وشهادات حول السلام بلغاتهم الأم، وإلى رسم أحلامهم.\n\nتتجه هذه المشاركات جميعاً إلى أن تلتقي في عمل جماعي إنساني متعدد اللغات، يعكس ثراء التنوع الثقافي وعالمية التطلعات إلى السلام. وطموح المشروع أن يتطور إلى مبادرة دولية تجمع بلداناً من آسيا وأوروبا وإفريقيا.\n\nومن خلال هذا المسار، تسعى مؤسِّسته إلى خلق فضاء للحوار واللقاء والتشارك، تصبح فيه الفنون والكلمات جسوراً بين الشعوب. ويحمل «لوحة السلام» رسالة إنسانية جامعة: أن لكل إنسان، أياً كانت لغته أو أصله أو ثقافته، مكاناً في بناء السلام.",
+            "fr": "Projet artistique, culturel et humanitaire imaginé, initié et porté par Anisa Alrefaei Roomieh.\n\nLe projet est né d'une conviction profonde : la paix commence par les mots et par la création d'espaces où chaque être humain peut exprimer librement ses pensées, ses rêves et ses aspirations. Il invite les enfants, les jeunes et les adultes de toutes origines à écrire, dans leur langue maternelle, des messages, des pensées, des réflexions, des expériences et des témoignages autour de la paix, ainsi qu'à dessiner leurs rêves.\n\nToutes ces contributions ont vocation à se réunir dans une œuvre collective, humaine et multilingue, reflétant la richesse de la diversité culturelle et l'universalité des aspirations à la paix. Son ambition est de faire évoluer cette initiative vers un projet international réunissant des pays d'Asie, d'Europe et d'Afrique.\n\nÀ travers cette démarche, elle souhaite créer un espace de dialogue, de rencontre et de partage, dans lequel l'art et les mots deviennent des ponts entre les peuples. Tableau de la Paix porte un message universel : chaque personne, quelle que soit sa langue, son origine ou sa culture, a une place dans la construction de la paix."
+          },
+          "collaborators": [],
+          "awards": [],
+          "url": null
+        },
+        {
+          "id": "proj-003",
+          "title": { "ar": "البطل عدنان", "fr": "Le héros Adnan" },
+          "image": null,
+          "year": null,
+          "status": "ongoing",
+          "tags": ["children", "literature", "education"],
+          "short": {
+            "ar": "مشروع أدبي موجَّه للأطفال، يهدف إلى نقل قيم إنسانية وتربوية بلغة بسيطة قريبة من عالمهم.",
+            "fr": "Projet littéraire destiné aux enfants, transmettant des valeurs humaines et éducatives dans un langage accessible."
+          },
+          "full": {
+            "ar": "مشروع أدبي موجَّه للأطفال، تعمل عليه أنيسة الرفاعي رومية حالياً، بعنوان «البطل عدنان».\n\nيهدف المشروع إلى نقل قصصٍ تحمل قيماً إنسانية وتربوية إلى القرّاء الصغار، بلغةٍ بسيطة قريبةٍ من عالمهم ومتاحةٍ لهم.\n\nومن خلال هذه الشخصية، تسعى الكاتبة إلى إيقاظ خيال الأطفال وغرس قيم المحبة والتضامن والاحترام والشجاعة والتسامح في نفوسهم.",
+            "fr": "Projet littéraire destiné aux enfants, actuellement en cours, intitulé « Le héros Adnan ».\n\nCe projet a pour objectif de transmettre aux jeunes lecteurs des histoires porteuses de valeurs humaines et éducatives, dans un langage simple, accessible et proche de leur univers.\n\nÀ travers ce personnage, elle souhaite éveiller l'imagination des enfants et leur transmettre des valeurs telles que l'amour, la solidarité, le respect, le courage et la tolérance."
+          },
+          "collaborators": [],
+          "awards": [],
+          "url": null
+        }
+      ],
+
+      "skills": [
+        {
+          "name": { "ar": "الكتابة الإبداعية والروائية", "fr": "Écriture créative et romanesque" },
+          "level": "expert"
+        },
+        {
+          "name": { "ar": "الشعر", "fr": "Poésie" },
+          "level": "expert"
+        },
+        {
+          "name": { "ar": "تدريس اللغة العربية لغير الناطقين بها", "fr": "Enseignement de l'arabe aux non-arabophones" },
+          "level": "expert"
+        },
+        {
+          "name": { "ar": "العمل الثقافي والإنساني", "fr": "Action culturelle et humanitaire" },
+          "level": "expert"
+        },
+        {
+          "name": { "ar": "الحوار بين الثقافات", "fr": "Dialogue interculturel" },
+          "level": "advanced"
+        }
+      ],
+
+      "social": {
+        "linkedin": null,
+        "github": null,
+        "twitter": null,
+        "facebook": null,
+        "instagram": null
+      }
+    }
+  ]
+}
