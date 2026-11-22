@@ -1,0 +1,30 @@
+{
+  "site.name": "Association Syro-Suisse",
+
+  "nav.home": "Accueil",
+  "nav.events": "Événements",
+  "nav.about": "À propos",
+  "nav.contact": "Contact",
+
+  "home.heroTitle": "Bienvenue à l'Association Syro-Suisse",
+  "home.heroSubtitle": "Un pont culturel et social entre les civilisations syrienne et suisse",
+  "home.cta": "Découvrir nos événements",
+  "home.aboutTitle": "Qui sommes-nous",
+  "home.aboutText": "L'Association Syro-Suisse est une organisation culturelle et sociale à but non lucratif, visant à promouvoir les échanges culturels entre les communautés syrienne et suisse, et à renforcer les liens entre la diaspora syrienne en Suisse et la société d'accueil, à travers l'organisation d'événements culturels, sociaux et éducatifs.",
+
+  "events.title": "Événements",
+  "events.subtitle": "Découvrez nos prochaines activités",
+  "events.empty": "Aucun événement pour le moment, revenez bientôt",
+  "events.readMore": "Lire la suite",
+
+  "footer.description": "Une association à but non lucratif qui promeut les échanges culturels et sociaux entre la communauté syrienne et la société suisse.",
+  "footer.followUs": "Suivez-nous",
+  "footer.quickLinks": "Liens rapides",
+  "footer.rights": "Tous droits réservés",
+  "footer.poweredBy": "Propulsé par",
+
+  "theme.light": "Passer au mode clair",
+  "theme.dark": "Passer au mode sombre",
+  "lang.switch": "Changer de langue",
+  "loading": "Chargement..."
+}

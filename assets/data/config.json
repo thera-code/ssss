@@ -1,0 +1,35 @@
+{
+  "brand": {
+    "logo": "assets/images/logo.png"
+  },
+  "languages": ["ar", "fr"],
+  "theme": {
+    "default": "light"
+  },
+  "sidebar": {
+    "items": [
+      { "id": "home",    "href": "index.html",   "icon": "home",     "labelKey": "nav.home"    },
+      { "id": "events",  "href": "events.html",  "icon": "calendar", "labelKey": "nav.events"  },
+      { "id": "about",   "href": "about.html",   "icon": "info",     "labelKey": "nav.about"   },
+      { "id": "contact", "href": "contact.html", "icon": "mail",     "labelKey": "nav.contact" }
+    ]
+  },
+  "home": {
+    "heroImage": "assets/images/hero.jpg"
+  },
+  "footer": {
+    "startYear": 2026,
+    "social": [
+      { "platform": "facebook",  "url": "https://facebook.com/yourpage",  "icon": "facebook"  },
+      { "platform": "instagram", "url": "https://instagram.com/yourpage", "icon": "instagram" },
+      { "platform": "twitter",   "url": "https://twitter.com/yourpage",   "icon": "twitter"   },
+      { "platform": "youtube",   "url": "https://youtube.com/@yourpage",  "icon": "youtube"   },
+      { "platform": "email",     "url": "mailto:info@example.com",        "icon": "mail"      }
+    ],
+    "poweredBy": {
+      "name": "thera_code",
+      "logo": "assets/images/team-logo.png",
+      "url": "https://www.instagram.com/thera_code"
+    }
+  }
+}

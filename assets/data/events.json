@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "id": "evt-001",
+      "title": {
+        "ar": "أمسية ثقافية سورية سويسرية",
+        "fr": "Soirée culturelle syro-suisse"
+      },
+      "description": {
+        "ar": "أمسية تعريفية تجمع بين الفن والموسيقى والمطبخ السوري والسويسري، مع فقرات فنية وموسيقية.",
+        "fr": "Une soirée de découverte mêlant art, musique et gastronomie syrienne et suisse, avec des performances artistiques."
+      },
+      "date": "2026-06-15T18:00:00Z",
+      "location": {
+        "ar": "جنيف - سويسرا",
+        "fr": "Genève - Suisse"
+      },
+      "image": "assets/images/events/event-1.jpg",
+      "link": ""
+    },
+    {
+      "id": "evt-002",
+      "title": {
+        "ar": "ورشة عمل للأطفال",
+        "fr": "Atelier pour enfants"
+      },
+      "description": {
+        "ar": "ورشة تفاعلية للأطفال لتعريفهم بالثقافتين السورية والسويسرية من خلال الأنشطة الفنية.",
+        "fr": "Un atelier interactif pour initier les enfants aux cultures syrienne et suisse à travers des activités artistiques."
+      },
+      "date": "2026-07-20T14:00:00Z",
+      "location": {
+        "ar": "زيوريخ - سويسرا",
+        "fr": "Zurich - Suisse"
+      },
+      "image": "assets/images/events/event-2.jpg",
+      "link": ""
+    }
+  ]
+}
